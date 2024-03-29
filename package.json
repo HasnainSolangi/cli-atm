@@ -1,0 +1,31 @@
+{
+  "name": "commandline-automated-teller-machine",
+  "version": "1.0.1",
+  "description": "Developing an ATM system accessible via command line interface, facilitating banking transactions and inquiries using straightforward commands and prompts.",
+  "main": "index.js",
+  "type": "module",
+  "bin":   "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasnainSolangi/cli-atm.git"
+  },
+  "author": "Hasnain Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasnainSolangi/cli-atm/issues"
+  },
+  "homepage": "https://github.com/HasnainSolangi/cli-atm#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
+
+
+
+
