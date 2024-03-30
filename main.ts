@@ -10,7 +10,7 @@
 
 */
 
-import inquirer from "inquirer"
+import inquirer from "inquirer";
 
 let myBalance = 25000;      // Dollar
 let myPin = 7865;           //Pin
