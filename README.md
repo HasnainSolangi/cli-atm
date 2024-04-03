@@ -9,7 +9,7 @@
 It's been a labour of love, and I can't wait for you to check it out.
 Could you please spare just 10 minutes to run it on your machine? I promise you'll be amazed by what you find. There's a uniqueness to this project that I'm sure you'll appreciate.
 
-𝗡𝗣𝗠 𝗣𝗮𝗰𝗸𝗮𝗴𝗲:- commandline-automated-teller-machine
+𝗡𝗣𝗠 𝗣𝗮𝗰𝗸𝗮𝗴𝗲:- ``commandline-automated-teller-machine``
 
 Thanks in advance for your support and feedback! Can't wait to hear what you think. 💻🚀
 
